@@ -16,9 +16,9 @@ Esses testes devem garantir que as principais funcionalidades do sistema sejam v
 - RetornarMaiorNumeroLista: Retorna o maior número da lista.
 - RetornarMenorNumeroLista: Retorna o menor número da lista.
 ## ValidacoesString:
-- **RetornarQuantidadeCaracteres: Retorna a quantidade de caracteres de um texto.
-- **ContemCaractere: Verifica se um texto contém um determinado trecho.
-- **TextoTerminaCom: Verifica se um texto termina com um determinado trecho.
+- RetornarQuantidadeCaracteres: Retorna a quantidade de caracteres de um texto.
+- ContemCaractere: Verifica se um texto contém um determinado trecho.
+- TextoTerminaCom: Verifica se um texto termina com um determinado trecho.
 - Projeto de Testes:
 
 # ValidacoesListaTests:
